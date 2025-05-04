@@ -2,7 +2,6 @@
 
 ## 📍 Ahmedabad, India  
 **Email:** [pvishva39@gmail.com](mailto:pvishva39@gmail.com)  
-**Phone:** [+91 6352642884](tel:+916352642884)  
 **GitHub:** [vishvapatel0](https://github.com/vishvapatel0)  
 **LinkedIn:** [Patel-Vishva](https://www.linkedin.com/in/patel-vishva)  
 
@@ -94,14 +93,6 @@ As the **General Secretary of ACM PDEU**, I bring together technical expertise a
 ### **Other Skills:**  
 - Data Modeling, Feature Engineering, Predictive Analytics, Debugging, RAG  
 
----
 
-## 🎓 Certifications & Training
-- **Python for Data Science and Machine Learning** — Udemy (Oct 2023)  
-- **Fundamentals of Deep Learning** — NVIDIA (Sep 2023)  
-- **Introduction to Cloud Computing** — Coursera (May 2023)  
-- **ACM Winter School on AI/ML** — IIT Patna (Dec 2023)  
-
----
 
 Thank you for visiting my profile! Feel free to connect with me for collaborations or exciting projects. 🚀✨
