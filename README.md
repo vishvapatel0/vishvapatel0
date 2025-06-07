@@ -33,6 +33,11 @@ As the **General Secretary of ACM PDEU**, I bring together technical expertise a
 ---
 
 ## 💼 Experience
+### **Data Science Intern**  
+**Data Alchemyte** — Ahmedabad, India  
+📅 May 2025 – Present  
+
+
 ### **Data Science Trainee**  
 **Blink Analytics** — Ahmedabad, India  
 📅 July 2024 – August 2024  
