@@ -4,7 +4,7 @@
 **Location:** Ahmedabad, India  
 **Email:** pvishva39@gmail.com  
 **Phone:** +91 6352642884  
-**Portfolio WebSite:** [vishvapatel][(https://vishva-portfolio.vercel.app/)]
+**Portfolio WebSite:** https://vishva-portfolio.vercel.app/
 **LinkedIn:** [Patel-Vishva](https://www.linkedin.com/in/Patel-Vishva)
 
 ---
