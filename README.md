@@ -30,9 +30,6 @@
 - **Data Science Intern @ Alchemyte Data Solutions LLP (May–Jul 2025)**  
   - Built a **real-time Generative AI assistant** with LangChain, CrewAI, FAISS & Ollama → improved accuracy & latency by **30%**  
 
-- **Data Science Trainee @ Blink Analytics (Jul–Aug 2024)**  
-  - Led comparative study of **4+ LLMs**, engineered evaluation prompts, fine-tuned models → achieved **20% higher semantic coherence**  
-
 - **Data Analyst Intern @ Dynalab Enterprise (Nov–Dec 2023)**  
   - Automated **Power BI dashboards** & SQL pipelines → reduced reporting time by **40%**  
 
